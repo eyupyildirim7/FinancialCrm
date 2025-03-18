@@ -25,9 +25,6 @@ Financial CRM is a desktop application for managing financial transactions. The 
 - **💡 Invoice Management:** You can view and track invoice transactions.
 
 ## 📸 Screenshots
-
-Translated with DeepL.com (free version)
-
 ![5](https://github.com/user-attachments/assets/833da131-f1e9-4f0e-8bd6-4d60d9148dbd)
 ![4](https://github.com/user-attachments/assets/8e4e7fdd-a48c-4a78-8b7c-31ec872b8e9b)
 ![3](https://github.com/user-attachments/assets/6cd53189-60b9-41fc-86b7-96f6a80ce60f)
